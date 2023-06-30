@@ -1,0 +1,130 @@
+[
+    {
+        "id": "1",
+        "lat":  41.56548812346072, 
+        "lng": 2.0186072575256064,
+        "place": "Parc de Vallparadís",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/22._Parque_de_Vallparad%C3%ADs.jpg/1200px-22._Parque_de_Vallparad%C3%ADs.jpg?20170114230516",
+        "info": "El parc de Vallparadís és el parc central de Terrassa. Amb més de 3,5 km de longitud, travessa la ciutat de nord a sud i engloba diversos espais com el Torrent de Les Bruixes, l'Horta dels Frares, la Piscina de Vallparadís, el Parc de les percepcions i La Devesa. Amb més de 395 mil m2 de zona verda, és un dels parcs urbans més grans de Catalunya i d'Europa."
+    },
+    {
+        "id": "2",
+        "lat":  41.56550526471168, 
+        "lng": 2.0072591849302563,
+        "place": "Museu Nacional de la Ciència i la Tècnica de Catalunya",
+        "img": "https://mnactec.cat/assets/uploads/covers/portes-obertesem-600x3962-600x396.jpg",
+        "info": "El Museu Nacional de la Ciència i de la Tècnica de Catalunya, també conegut amb l'acrònim MNACTEC, és un museu que té com a missió promoure el coneixement de la cultura científica, tècnica i industrial i, a la vegada, conservar, estudiar i mostrar l'evolució dels avenços científics i tècnics a Catalunya, fent especial atenció a la seva aplicació industrial i la seva incidència social."
+    },
+    {
+        "id": "3",
+        "lat":  41.56463273815184,
+        "lng":  2.0192928016589486,
+        "place": "Castell Cartoixa de Vallparadís",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Castell_de_Vallparad%C3%ADs.JPG",
+        "info": "El Castell Cartoixa de Vallparadís és un edifici fortificat del segle XII, i es va convertir en cartoixa en els segles XIV-XV, quan es van construir la sala capitular, el claustre i la capella. Va ser restaurat durant els anys 50 i adaptat per a usos museístics el 1959. Actualment és la seu principal del Museu de Terrassa i n'acull l'exposició permanent, inaugurada l'any 1994."
+    },
+    {
+        "id": "4",
+        "lat":  41.56333588926967, 
+        "lng":  2.008684253776662,
+        "place": "Mercat de la Independència",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mercat_Terrassa_Vall%C3%A8s_Occidental_Catalunya.jpg",
+        "info": "El Mercat de la Independència és el mercat central de Terrassa, tradicionalment el més important. Ocupa tota una illa de cases triangular que dona al Raval de Montserrat (on hi ha l'entrada principal), la Rambla d'Ègara i el carrer de la Goleta. Es tracta d'un edifici modernista, obra dels arquitectes municipals Antoni Pascual i Carretero (entre 1904 i 1906) i Melcior Vinyals i Muñoz, a partir d'aquell any i fins al 1908, en què es va inaugurar."
+    },
+    {
+        "id": "5",
+        "lat":  41.56453541227343,  
+        "lng": 2.013241384463931,
+        "place": "Teatre Principal de Terrassa",
+        "img": "https://3.bp.blogspot.com/-xS7pQpr8XJA/WJ79rgvpMdI/AAAAAAAAI0s/6FJbzBLwSdMA1WmvNec6iFd6r2cx-R8EQCEw/s1600/14503385993_afd796a9a3_b.jpg",
+        "info": "El Teatre Principal de Terrassa és una edificació teatral els orígens de la qual es remunten al 1866, per a l'esbarjo de la burgesia industrial de la ciutat. L'edifici actual, situat a la plaça de Maragall, és obra de la reforma de 1911, d'Enric Catà i Francesc Guàrdia."
+    },
+    {
+        "id": "6",
+        "lat":  41.562219308690466, 
+        "lng": 2.011565240284339,
+        "place": "Sant Esperit de Terrassa",
+        "img": "https://www.epdlp.com/fotos/allopart2.jpg",
+        "info": "La catedral de Terrassa o basílica del Sant Esperit és un edifici religiós situat a la plaça Vella de Terrassa i dedicat al Sant Esperit, construït entre 1574 i 1616. L'any 2004 el Vaticà va crear el nou bisbat de Terrassa, com a segregació del bisbat de Barcelona, i va decidir fer servir la basílica del Sant Esperit com a nova catedral."
+    },
+    {
+        "id": "7",
+        "lat":  41.567127378727776, 
+        "lng": 2.0184293291326387,
+        "place": "Esglésies de Sant Pere",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Terrassa%2C_Esgl%C3%A9sia_de_Sant_Pere-PM_27014.jpg",
+        "info": "Les esglésies de Sant Pere de Terrassa (Seu d'Ègara) són un conjunt monumental format per les esglésies romàniques de Sant Pere, Sant Miquel i Santa Maria, situades a la confluència dels torrents de Vallparadís i Monner, a l'antic nucli visigòtic d'Ègara, origen del poble de Sant Pere de Terrassa, avui barri terrassenc. Són testimoni de la seu episcopal del bisbat d'Ègara, constituït cap a l'any 450."
+    },
+    {
+        "id": "8",
+        "lat":  41.562372670662114, 
+        "lng": 2.0107644305043006,
+        "place": "Torre del Palau",
+        "img": "https://misescapadillas.files.wordpress.com/2015/06/torre_palau.jpg",
+        "info": "La Torre del Palau és l'únic element visible que es conserva al seu lloc de l'antic Castell Palau de Terrassa, construït a partir del segle XII pels comtes de Barcelona. Constitueix l'edifici més emblemàtic de la ciutat, tant per la seva situació al centre del nucli antic com per la seva presència a l'escut de la vila des d'època medieval. Va ser declarat Be Cultural d'Interès Nacional l'any 1986. El 1994, es va integrar a l'estructura del Museu de Terrassa, després que s'hi fessin excavacions arqueològiques i que l'edifici fos consolidat."
+    },
+    {
+        "id": "9",
+        "lat":  41.56300432396853, 
+        "lng": 2.004267558151687,
+        "place": "Masia Freixa",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/0e/8f/07/ab/la-masia-freixa-edificio.jpg",
+        "info": "La Masia Freixa és un edifici modernista de la ciutat de Terrassa situat al parc de Sant Jordi, antics jardins i terreny adjacent a la masia, ubicat al barri de Ca n'Aurell. Construïda el 1896, va ser pensada originalment com a fàbrica de filats i va ser reformada entre el 1907 i el 1914 per Lluís Muncunill i Parellada, que la va transformar en la residència familiar de l'industrial tèxtil Josep Freixa. L'arquitecte la va convertir en una de les joies del modernisme terrassenc, amb la seva estructura d'arcs i voltes d'inspiració gaudiniana i els murs pintats de blanc, d'on sobresurt una alta torre."
+    },
+    {
+        "id": "10",
+        "lat":  41.562794327646714,
+        "lng":  2.012374446720515,
+        "place": "Casa Museu Alegre de Sagrera",
+        "img": "https://i0.wp.com/mamaquefemdema.com/wp-content/uploads/2021/11/casa-alegre-sagrera-fachada-posterior.jpg",
+        "info": "La casa Alegre de Sagrera és un edifici-museu del carrer de la Font Vella de Terrassa. En un origen fou la casa pairal de Joaquim de Sagrera, fabricant tèxtil de final del segle XVIII i començament del XIX que va tenir un paper destacat en la guerra del Francès."
+    },
+    {
+        "id": "11",
+        "lat":  41.56310397161359,
+        "lng":  2.010078606850876,
+        "place": "Ajuntament de Terrassa",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ajuntament_de_Terrassa_%281%29.jpg",
+        "info": "L'Ajuntament de Terrassa és un edifici neogòtic de Terrassa on té la seu el consell de la ciutat. Està situat al Raval de Montserrat. És una obra de Lluís Muncunill dels anys 1900-1902, i constitueix una de les primeres obres terrassenques de l'aleshores arquitecte municipal, que seguia les tendències historicistes medievals que més tard el van conduir cap al modernisme."
+    },
+    {
+        "id": "12",
+        "lat":  41.56227577811189, 
+        "lng": 2.019554849176839,
+        "place": "Centre de la Imatge i la Tecnologia Multimèdia (CITM)",
+        "img": "https://live.staticflickr.com/3693/11220018063_d9c7a7673d_b.jpg",
+        "info": "El Centre de la Imatge i la Tecnologia Multimèdia (CITM) és un centre docent adscrit a la UPC (Universitat Politècnica de Catalunya) especialitzat en formació de grau sobre els àmbits d'animació i art digital, disseny i tecnologies multimèdia i videojocs."
+    },
+    {
+        "id": "13",
+        "lat":  41.5725406566691, 
+        "lng": 2.013323655628305,
+        "place": "Mercat del Triomf",
+        "img": "https://www.diarideterrassa.com/wp-content/uploads/2022/12/Mercat-del-Triomf-de-Sant-Pere-Terrassa-Nebridi-Aroztegui-4.jpg",
+        "info": "El Mercat del Triomf o Mercat Municipal de Sant Pere és el segon mercat més antic de Terrassa, després del Mercat de la Independència. Situat al barri de Sant Pere, és un monument protegit com a bé cultural d'interès local."
+    },
+    {
+        "id": "14",
+        "lat":  41.56984309742513, 
+        "lng": 2.0142916182698603,
+        "place": "Estació del Nord",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Estaci%C3%B3_del_Nord%2C_fa%C3%A7ana_meridional_%28II%29.jpg/800px-Estaci%C3%B3_del_Nord%2C_fa%C3%A7ana_meridional_%28II%29.jpg",
+        "info": "Terrassa Estació del Nord és una estació de ferrocarril i intercanviador de Rodalies i FGC al passeig Vint-i-dos de juliol de la població de Terrassa. Rep el seu nom ja que originàriament hi operava la Companyia dels Camins de Ferro del Nord d'Espanya."
+    },
+    {
+        "id": "15",
+        "lat":  41.56427378303937,
+        "lng":  2.0230434682157554, 
+        "place": "Escola d'Enginyeria de Terrassa",
+        "img": "https://eseiaat.upc.edu/es/eseiaatfoto.jpg",
+        "info": "L'Escola Superior d'Enginyeries Industrial, Aeroespacial i Audiovisual de Terrassa (ESEIAAT) forma part de la Universitat Politècnica de Catalunya. L'Escola d'Enginyeria de Terrassa va iniciar la seva activitat a l'agost de l'any 1901. L'edifici és d'estil modernista català que caracteritzava a la ciutat de Terrassa, obra de l'arquitecte Lluís Muncunill i Parellada."
+    },
+    {
+        "id": "16",
+        "lat":  41.5637185258482, 
+        "lng":  2.0171199482757043, 
+        "place": "Hospital Mútua de Terrassa",
+        "img": "https://www.mutuaterrassa.com/uploads/20160405/HUMT.0.jpg",
+        "info": "L'Hospital Universitari Mútua Terrassa és centre universitari per la Universitat de Barcelona i està entre els 8 hospitals de més complexitat de Catalunya. Es tracta d’un centre amb un nivell assistencial de referència, no solament per a la seva àrea d'influència, sinó també per a d'altres hospitals en especialitats com la neurocirurgia, la cirurgia toràcica i l'hemodinàmica cardíaca."
+    }
+]
